@@ -88,7 +88,7 @@ class RecipeController extends Controller
         return $jsonResponse;
     }
 
-    
+
 
 
 }
