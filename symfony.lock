@@ -130,5 +130,17 @@
             "version": "3.3",
             "ref": "c72d107d077f1654428edaed69415d0228c1aefe"
         }
+    },
+    "guzzlehttp/promises": {
+        "version": "v1.3.1"
+    },
+    "psr/http-message": {
+        "version": "1.0.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.4.2"
+    },
+    "guzzlehttp/guzzle": {
+        "version": "6.3.0"
     }
 }
